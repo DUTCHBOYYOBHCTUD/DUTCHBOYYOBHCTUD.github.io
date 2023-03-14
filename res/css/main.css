@@ -1973,7 +1973,7 @@ h6 {
 }
 
 .navbar.shrink {
-  -webkit-box-shadow: 0 8px 17px -8px rgba(0, 0, 0, .1);
+  -webkit-box-shadow: 0 8px 17px -8px rgba(255, 23, 23, 0.1);
   -moz-box-shadow: 0 8px 17px -8px rgba(0, 0, 0, .1);
   box-shadow: 0 8px 17px -8px rgba(0, 0, 0, .1)
 }
