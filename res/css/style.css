@@ -59,40 +59,40 @@
 /* Home BG Static (default) */
 
 #home {
-  background: url("../images/bg-home-1.jpg");
+  background: url("../images/bg-1.jpg");
 }
 
 
 /* Home BG Parallax */
 
 #home-bg-parallax > .bg-parallax {
-  background: url("../images/bg-parallax.jpg");
+  background: url("../images/bg-1.jpg");
 }
 
 
 /* Home BG Slideshow */
 
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(1) {
-  background: url("../images/bg-home-1.jpg");
+  background: url("../images/bg-1.jpg");
 }
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(2) {
-  background: url("../images/bg-home-2.jpg");
+  background: url("../images/bg-2.jpg");
 }
 #home-bg-slideshow .bg-slideshow-wrapper .slides > .bg-cover:nth-child(3) {
-  background: url("../images/bg-home-3.jpg");
+  background: url("../images/bg-n.jpg");
 }
 
 
 /* Home BG Slider */
 
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(1) {
-  background: url("../images/bg-home-1.jpg");
+  background: url("../images/bg-1.jpg");
 }
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(2) {
-  background: url("../images/bg-home-2.jpg");
+  background: url("../images/bg-2.jpg");
 }
 #home-bg-slider .bg-slider-wrapper .flickity-slider .bg-cover:nth-child(3) {
-  background: url("../images/bg-home-3.jpg");
+  background: url("../images/bg-3.jpg");
 }
 #home-bg-slideshow .display-table-cell,
 #home-bg-slider .display-table-cell {
